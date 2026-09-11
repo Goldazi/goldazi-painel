@@ -31,7 +31,7 @@ jobs:
       - name: Instalar Buildozer e Cython exato
         run: |
           pip install --upgrade pip setuptools
-          pip install "cython==0.29.33" buildozer
+          pip install "cython==0.29.33" "buildozer==1.5.0"
 
       - name: Aceitar Licenças do Android SDK
         run: |
