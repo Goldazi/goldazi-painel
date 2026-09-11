@@ -14,4 +14,5 @@ android.minapi = 24
 android.ndk = 25b
 android.accept_sdk_license = True
 android.build_tools_version = 33.0.2
+p4a.branch = master
 log_level = 2
